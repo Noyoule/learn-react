@@ -1,0 +1,1 @@
+export type ProductType = { category: string, price: string, stocked: boolean, name: string }
